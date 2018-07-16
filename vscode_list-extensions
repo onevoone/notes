@@ -1,4 +1,7 @@
 code --list-extensions
+code --install-extension ms-vscode.cpptools
+code --uninstall-extension ms-vscode.csharp
+-------------------------------------------
   abusaidm.html-snippets
   akamud.vscode-theme-onedark
   andischerer.theme-atom-one-dark
